@@ -1,0 +1,3 @@
+[submodule "evm-contracts"]
+	path = evm-contracts
+	url = https://github.com/zkLinkProtocol/zklink-contracts.git
